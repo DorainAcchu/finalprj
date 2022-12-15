@@ -14,7 +14,7 @@ class Greeting (Resource):
 
     def get(self):
 
-        return 'Hello World!'
+        return 'Hello World! I am learning DevOps!'
 
 
 
